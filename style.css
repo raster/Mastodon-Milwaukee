@@ -5,9 +5,34 @@ body {
 	background-color: #292C36;
 }
 
+.small {
+	font-size: 85%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	line-height: 175%;
+}
+
+hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+    height: 1px;
+    border: 0;
+    border-bottom: 1px dashed #909090;
+}
+
 a:link, a:visited, a:active, a:hover {
 	color: #ffffff;
 	text-decoration: none;
+}
+
+a.uln:link, a.uln:visited, a.uln:active, a.uln:hover {
+	color: #ffffff;
+	text-decoration: underline;
 }
 
 a:active, a:hover {
