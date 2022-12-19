@@ -23,7 +23,7 @@
 @nancyhetzel@universeodon.com
 @Just_Some_Guy@mstdn.party
 @chuck@nerdfoo.dev
-@TMAN@mas.to
+@Tman@socialism.social
 @plural@indieweb.social
 @rohdesign@mastodon.online
 @jschrab@mastodon.social
@@ -40,3 +40,4 @@
 @robmoore@universeodon.com
 @Herodotusjr@glammr.us
 @gaming_otter@tech.lgbt
+@kreets@mastodon.online
