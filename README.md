@@ -1,5 +1,7 @@
 # Mastodon-Milwaukee
 
+![Mastodon](mastodon.png)
+
 A list of Milwaukee Mastodon users and accounts.
 
 [Let me know](https://mastodon.social/@rasterweb) if I am missing any!
