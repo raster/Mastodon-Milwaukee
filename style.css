@@ -20,9 +20,9 @@ li {
 hr {
 	margin-top: 20px;
 	margin-bottom: 20px;
-    height: 1px;
-    border: 0;
-    border-bottom: 1px dashed #909090;
+	height: 1px;
+	border: 0;
+	border-bottom: 1px dashed #909090;
 }
 
 a:link, a:visited, a:active, a:hover {
