@@ -45,3 +45,6 @@
 @goal@thefooty.club
 @FrozenKow@mastodon.social
 @MarquetteUPress@hcommons.social
+@CFigueroaMD@fediscience.org
+@jasonbraatz@mastodon.social
+@brianartka@mastodon.world
