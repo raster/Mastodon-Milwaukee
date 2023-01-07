@@ -64,3 +64,5 @@
 @mosaic@universeodon.com
 @GregSadler@metalhead.club
 @lorimcd@mindly.social
+@haazah@hostux.social
+@lakeicychill@mstdn.social
