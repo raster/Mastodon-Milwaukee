@@ -60,13 +60,10 @@
 @marbeff@urbanists.social
 @anna@urbanists.social
 @mitch@urbanists.social
-<<<<<<< HEAD
-@joephillips@mastodon.social
-=======
 @skoranda@social.linux.pizza
 @mosaic@universeodon.com
 @GregSadler@metalhead.club
 @lorimcd@mindly.social
 @haazah@hostux.social
 @lakeicychill@mstdn.social
->>>>>>> 8f7d5047d42e025c27cb35b5104544353447510b
+@joephillips@mastodon.social
