@@ -80,3 +80,5 @@
 @ben_bliss@mastodon.social
 @bruceseeds@mastodon.world
 @carlt4@hachyderm.io
+@jregan@mastodon.social
+@mkedave@mastodon.world
