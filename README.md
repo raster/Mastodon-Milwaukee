@@ -11,3 +11,7 @@ Want to import into your account? Just grab [Milwaukee-Mastodon-Usernames.csv](h
 Want to view a list of links? See [https://raster.github.io/Mastodon-Milwaukee/](https://raster.github.io/Mastodon-Milwaukee/)
 
 What is Mastodon? Visit [Join Mastodon](https://joinmastodon.org/) and find out.
+
+## Note
+
+I haven't updated this in quite some time... many people joined and then either left or never posted. I should do an update to reflect that.
